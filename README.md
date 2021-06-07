@@ -1,4 +1,3 @@
-# capture webpage by url
 
 ## Eslint and prettier config - With VS Code
 
